@@ -1,4 +1,5 @@
 # electrobots-releases
-Electrobots by 0xC0DE. Game for Acorn Electron, BBC Micro and Master.
+Electrobots, a game for Acorn Electron, BBC Micro and Master
+Copyright (c) 2021 0xC0DE
 
 https://twitter.com/0xC0DE6502
