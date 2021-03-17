@@ -20,22 +20,22 @@ Good luck!
 ## Controls (redefinable)
 
 ```
-Z - Left
-X - Right
-: - Up
-/ - Down
+Z      - Left
+X      - Right
+:      - Up
+/      - Down
 RETURN - Jump / Activate portal
-SPACE - Fire (when gun is held)
+SPACE  - Fire (when gun is held)
 ```
 
 ### Other keys:
 
 ```
 1/2/3 - Switch zone (Land, Water, Space)
-P - Pause / Unpause
-Q - Quiet
-S - Sound
-R - Redefine controls
+P     - Pause / Unpause
+Q     - Quiet
+S     - Sound
+R     - Redefine controls
 ```
 
 ## Playing on BBC emulator
@@ -47,4 +47,4 @@ You can play this game online using a [hosted version](https://bbc.godbolt.org/?
 2. In the BBC emulator hold SHIFT and then tap BREAK (usually F12). Alternatively, type `*EXEC !BOOT` (the `*` key is usually `shift-"`) and press return.
 3. Have fun!
 
-Electrobots - Copyright (C) 2021 0xC0DE (https://twitter.com/0xC0DE6502)
+Electrobots - Copyright (C) 2021 [0xC0DE](https://twitter.com/0xC0DE6502)
