@@ -44,7 +44,7 @@ You can play this game online using a [hosted version](https://bbc.godbolt.org/?
 
 0. Download the [Electrobots `ssd` file](https://github.com/0xC0DE6502/electrobots-releases/raw/main/electrobots-1.00.ssd) to your machine
 1. On [jsbeeb](https://bbc.godbolt.org/?&configuration&model=Master) click on the `Discs` menu and `From examples or local`. Select the electrobots `ssd` file that you downloaded
-2. In the BBC emulator type `*EXEC LOADER` (the `*` key is usually `shift-"`)
+2. In the BBC emulator hold SHIFT and then tap BREAK (usually F12). Alternatively, type `*EXEC !BOOT` (the `*` key is usually `shift-"`) and press return.
 3. Have fun!
 
 Electrobots - Copyright (C) 2021 0xC0DE (https://twitter.com/0xC0DE6502)
