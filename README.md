@@ -1,4 +1,4 @@
-# electrobots-releases
+# Electrobots releases
 
 Electrobots, an 8-bit game for Acorn Electron, BBC Micro and BBC Master.
 
